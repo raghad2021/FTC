@@ -1,0 +1,17 @@
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.csprojAssemblyReference.cache
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.AssemblyInfoInputs.cache
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.AssemblyInfo.cs
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Infrastructure.deps.json
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Infrastructure.dll
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\ref\FTC.Infrastructure.dll
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Infrastructure.pdb
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Core.dll
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Data.dll
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Core.pdb
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\bin\Debug\net5.0\FTC.Data.pdb
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.csproj.CopyComplete
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.dll
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\ref\FTC.Infrastructure.dll
+D:\Repositories\ftcweb\FTC\FTC.Infrastructure\obj\Debug\net5.0\FTC.Infrastructure.pdb

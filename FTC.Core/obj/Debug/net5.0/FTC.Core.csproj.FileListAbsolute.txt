@@ -1,0 +1,12 @@
+D:\Repositories\ftcweb\FTC\FTC.Core\bin\Debug\net5.0\FTC.Core.deps.json
+D:\Repositories\ftcweb\FTC\FTC.Core\bin\Debug\net5.0\FTC.Core.dll
+D:\Repositories\ftcweb\FTC\FTC.Core\bin\Debug\net5.0\ref\FTC.Core.dll
+D:\Repositories\ftcweb\FTC\FTC.Core\bin\Debug\net5.0\FTC.Core.pdb
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.AssemblyInfoInputs.cache
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.AssemblyInfo.cs
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.csproj.CoreCompileInputs.cache
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.dll
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\ref\FTC.Core.dll
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.pdb
+D:\Repositories\ftcweb\FTC\FTC.Core\obj\Debug\net5.0\FTC.Core.csprojAssemblyReference.cache
